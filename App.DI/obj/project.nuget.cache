@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/ns2kIFpH2PjaaLY7B8fs2FsFGJEfvOTVrDEgjTjUYspCXUe+GAcQ9AgWj+JtVJ/LBm/r1LLaH2PjZatj9t0A==",
+  "success": true,
+  "projectFilePath": "D:\\Interviews\\SheRPR\\Sherpr.Test.Rajesh\\App.DI\\App.DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukazu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
